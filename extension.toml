@@ -1,0 +1,8 @@
+id = "ml-toolkit-for-zed"
+name = "ML Toolkit for Zed"
+version = "0.2.0"
+schema_version = 1
+authors = ["Your Name <you@example.com>"]
+description = "Comprehensive Machine Learning support for Zed, including TensorFlow and PyTorch"
+repository = "https://github.com/your-name/ml-toolkit-for-zed"
+
